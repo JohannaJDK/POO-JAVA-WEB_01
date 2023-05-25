@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+
+} 
+.botoninicio{
+    position: fixed;
+    top: 30px;
+    right: 40px;
+  }
+  
+  .botonregistro{
+    position: fixed;
+    top: 80px;
+    right: 20px;
+  }
+  
+  .body {
+    font-family: arial;
+    position: relative;
+    background-color:rgb(246, 245, 247) ;}
+  
+  .form-login {
+    width: 250px;
+    height: 180px;
+    background: #fffffffd;
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: 17px 13px 17px #ad6060;
+    padding: 30px 40px;
+    border-top: 5px solid #d52323;
+    color: rgba(0, 0, 0, 0.903);
+  }
+  
+  .form-login h5 {
+    margin: 0;
+    text-align: center;
+    height: 50px;
+    margin-bottom: 70px;
+    border-bottom: 1px solid;
+    font-size: 30px;
+  }
+  
+  .controls {
+    width: 100%;
+    border: 1px solid #d43434;
+    margin-bottom: 55px;
+    padding: 15px 10px;
+    background: #c8bfbf;
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  .form-login a:hover {
+    text-decoration: underline;
+  }

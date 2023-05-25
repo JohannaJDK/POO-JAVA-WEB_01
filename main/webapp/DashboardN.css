@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    
+  
+} 
+.botoninicio{
+    position: fixed;
+    top: 50px;
+    right: 40px;
+}
+  
+.botonconsulta{
+    margin-left: 25vh;
+    position: fixed;
+    bottom: 95px;
+    border-bottom:440px;
+}
+
+.botonrecargar{
+    margin-left: 95vh;
+    position: fixed;
+    bottom: 75px;
+    border-bottom:480px;
+}
+
+.botonretirar{
+    margin-left: 163vh;
+    position: fixed;
+    bottom: 95px;
+    border-bottom:440px;
+}
+    
+.ingresodashD{
+    position: center;
+    left: 75px;
+}

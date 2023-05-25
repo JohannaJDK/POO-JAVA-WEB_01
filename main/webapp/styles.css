@@ -1,0 +1,59 @@
+/*---------Estilos del Index---------------*/
+*{
+    margin: 0%;
+    
+
+}.contenedor{
+    width: 500px;
+    height: 500px;
+    position: fixed;
+}
+
+.botoninicio{
+    position: fixed;
+    top: 30px;
+    right: 40px;
+}
+
+.botonregistro{
+    position: fixed;
+    top: 80px;
+    right: 20px;
+}
+
+.piedepag{
+    position: fixed;
+    bottom: 0%;
+    width: 100px;
+}
+
+.ingresonequi{
+    position: fixed;
+    left: 270px;
+    bottom: 260px;
+    margin-left: 20vh;
+}
+
+.ingresodavi{
+    position: fixed;
+    left: 650px;
+    bottom: 260px;
+    margin-left: 20vh;
+}
+
+.botonnequi{
+    position: fixed;
+    left: 270px;
+    bottom: 235px;
+    margin-left: 30vh;
+    border-bottom:250px;
+}
+
+.botondaviiplata{
+    position: fixed;
+    left: 650px;
+    bottom: 235px;
+    margin-left: 30vh;
+    border-bottom:250px;
+}
+
